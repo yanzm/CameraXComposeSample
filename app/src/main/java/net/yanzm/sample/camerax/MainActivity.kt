@@ -11,6 +11,7 @@ import net.yanzm.sample.camerax.ui.PermissionScreen
 import net.yanzm.sample.camerax.ui.theme.CameraXComposeSampleTheme
 
 class MainActivity : ComponentActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {

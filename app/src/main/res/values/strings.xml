@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CameraXComposeSample</string>
+    <string name="audio">Audio</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="start">Start</string>
+    <string name="switch_camera">Switch Camera</string>
 </resources>
